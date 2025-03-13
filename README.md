@@ -47,12 +47,8 @@ python real_time_prediction.py
 ```
 
 ## Code Structure
-- **`train.py`**: Trains the LSTM-based speaker identification model.
-- **`predict.py`**: Performs speaker classification on input audio files.
-- **`real_time_prediction.py`**: Implements real-time speaker identification using a microphone.
-- **`feature_extraction.py`**: Extracts MFCC features from audio data.
-- **`model.py`**: Defines the deep learning model architecture.
-- **`requirements.txt`**: Lists all dependencies needed to run the project.
+- **`SpeakerIdentification.ipynb`**: This file, contains code for speaker identification.
+- **`Speaker_Identification.zip`**: This file, contains the required dataset.
 - **`README.md`**: This file, providing an overview of the project.
 
 ## Key Functions
