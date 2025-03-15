@@ -2,6 +2,8 @@
 
 This project implements a deep learning-based speaker identification system. It processes audio recordings, extracts features using MFCC, and classifies speakers using an LSTM-based neural network. The system is designed for real-time speaker identification using pre-recorded audio inputs.
 
+# Colab Link : https://colab.research.google.com/drive/1f2pmBLuGg-rhcHtw-HTGhPRvwrSm8wFE?usp=sharing
+
 ## Features
 - **Speaker Identification:** Classifies and identifies speakers based on their unique voice characteristics.
 - **MFCC Feature Extraction:** Extracts Mel-Frequency Cepstral Coefficients (MFCCs) from audio for feature representation.
